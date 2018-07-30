@@ -2,7 +2,7 @@ import java.net.*;
 import java.io.*;
 public class Servidortcp {
 
-	public static void main(String[] args) {
+	public static void main(String argv[]) {
 		
 		ServerSocket socket;
 		
